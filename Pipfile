@@ -8,8 +8,9 @@ flask = "*"
 "googlefinance.client" = "*"
 alpha-vantage = "*"
 quandl = "*"
+gunicorn = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
